@@ -6,3 +6,5 @@ Mutualis SPRL was created in 2008 to offer consulting services in the following 
 * Management of IT Infrastructure projects
 * Deployement and configuration of open source solutions
 * Development of web and mobile applications
+
+{% include 'partials/aboutme.html.twig' %}
