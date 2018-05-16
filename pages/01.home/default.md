@@ -31,15 +31,13 @@ media_order: opensource.png
   border: 1px solid #a9cde5; }    
 </style>
 
-<div id="extra">
-  <div class="box">
-    <div id="player">
-
+<span id="extra">
+  <span class="box">
+    <span id="player">
 ![](opensource.png)
-
-    </div>
+    </span>
     <h3>Why pay when you can get IT for free!</h3>
 <p>Why pay software licences when you can get the service level you need with free solutions ? We guess because IT is not your business, that’s ours. We implement and support open source IT solutions for you to let you focus on your own business !</p>
-  </div>
-</div>
+  </span>
+</span>
 
