@@ -32,7 +32,7 @@ media_order: opensource.png
 </style>
 
 <span id="extra">
-  <span class="box">
+  <span class="box" style="background-color: #e8f0f6;border-color: #D5E9F6;">
     <span id="player">
 ![](opensource.png)
     </span>
