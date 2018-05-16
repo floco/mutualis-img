@@ -34,10 +34,10 @@ media_order: opensource.png
 <div id="extra">
   <div class="box">
     <div id="player">
-      <img src="opensource.png" alt="opensource_logo">
+      ![](opensource.png)
     </div>
     <h3>Why pay when you can get IT for free!</h3>
 <p>Why pay software licences when you can get the service level you need with free solutions ? We guess because IT is not your business, that’s ours. We implement and support open source IT solutions for you to let you focus on your own business !</p>
   </div>
 </div>
-![](opensource.png)
+
