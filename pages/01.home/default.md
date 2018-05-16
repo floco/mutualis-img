@@ -31,13 +31,13 @@ media_order: opensource.png
   border: 1px solid #a9cde5; }    
 </style>
 
-<span id="extra">
-  <span class="box" style="background-color: #e8f0f6;border-color: #D5E9F6;">
-    <span id="player">
-![](opensource.png)
-    </span>
+<div id="extra">
+  <div class="box" style="background-color: #e8f0f6;border-color: #D5E9F6;">
+    <div id="player">
+<img src="/user/pages/01.home/opensource.png" alt="opensource_logo">
+    </div>
     <h3>Why pay when you can get IT for free!</h3>
 <p>Why pay software licences when you can get the service level you need with free solutions ? We guess because IT is not your business, that’s ours. We implement and support open source IT solutions for you to let you focus on your own business !</p>
-  </span>
-</span>
+  </div>
+</div>
 
