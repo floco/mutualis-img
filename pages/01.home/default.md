@@ -31,7 +31,16 @@ media_order: opensource.png
   border: 1px solid #a9cde5; }    
 </style>
 
-<div id="extra">
+<div class="uk-slidenav-position" data-uk-slideshow>
+    <ul class="uk-slideshow">
+        <li></li>
+        <li></li>
+    </ul>
+    <a href="" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
+    <a href="" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next"></a>
+    <ul class="uk-dotnav uk-dotnav-contrast uk-position-bottom uk-flex-center">
+        <li data-uk-slideshow-item="0">
+        <div id="extra">
   <div class="box" style="background-color: #e8f0f6;border-color: #D5E9F6;">
     <div id="player">
 <img src="/user/pages/01.home/opensource.png" alt="opensource_logo">
@@ -40,4 +49,10 @@ media_order: opensource.png
 <p>Why pay software licences when you can get the service level you need with free solutions ? We guess because IT is not your business, that’s ours. We implement and support open source IT solutions for you to let you focus on your own business !</p>
   </div>
 </div>
+        </li>
+        <li data-uk-slideshow-item="1"><a href=""></a></li>
+    </ul>
+</div>
+
+
 
