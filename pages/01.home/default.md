@@ -41,6 +41,7 @@ media_order: opensource.png
   </div>
 </div>
 
+<p>
 <div class="uk-slidenav-position" data-uk-slideshow>
     <ul class="uk-slideshow">
         <li></li>
@@ -53,4 +54,5 @@ media_order: opensource.png
         <li data-uk-slideshow-item="1"><a href=""><img src="/user/pages/01.home/opensource.png" alt="opensource_logo"></a></li>
     </ul>
 </div>
+</p>
 
