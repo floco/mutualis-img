@@ -2,6 +2,7 @@
 title: sidebar
 ---
 
+<span uk-icon="heart"></span>
 <p><strong>Project Management</strong></p>
 <p>We lead your infrastructure project to success.</p>
 <p><strong>Web Development </strong></p>
