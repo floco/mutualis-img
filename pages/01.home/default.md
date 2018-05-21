@@ -3,6 +3,7 @@ title: Home
 media_order: opensource.png
 ---
 
+{{ page.find('/teaser').content |raw }}
 <p>
 <div class="uk-slidenav-position" data-uk-slideshow>
     <ul class="uk-slideshow">
