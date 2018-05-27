@@ -4,7 +4,7 @@ media_order: opensource.png
 ---
 
 <div class="uk-slidenav-position" data-uk-slideshow="">
-                                <ul class="uk-slideshow uk-text-center" style="height: 226px;">
+                                <ul class="uk-slideshow uk-text-center" style="height: 226px;" data-uk-slideshow="{autoplay:true}">
                                     <li data-slideshow-slide="html" aria-hidden="false" class="uk-active" style="height: 226px;">
                                         <div class="uk-panel uk-panel-box">
                                             <div class="uk-grid">
