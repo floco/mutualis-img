@@ -1,0 +1,71 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1526226414
+layout:
+  /header/:
+    -
+      - 'logo-2759 33.3'
+      - 'position-header 33.3'
+      - 'search-1289 33.3'
+  /navigation/:
+    -
+      - menu-8358
+  /main/:
+    -
+      - position-breadcrumbs
+    -
+      - system-messages-5043
+    -
+      - 'system-content-8627 70'
+      - 'position-position-5326 30'
+  /footer/:
+    -
+      - position-footer
+    -
+      - 'copyright-8642 34'
+      - 'spacer-2848 33'
+      - 'branding-1005 33'
+  offcanvas:
+    -
+      - mobile-menu-8922
+structure:
+  header:
+    attributes:
+      boxed: ''
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+  main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+content:
+  position-header:
+    attributes:
+      key: header
+  search-1289:
+    block:
+      variations: align-right
+  menu-8358:
+    attributes:
+      menu: ''
+    block:
+      variations: align-left
+      fixed: '1'
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+  position-position-5326:
+    title: 'Module Position'
+    attributes:
+      key: Sidebar
+    block:
+      variations: 'box4 rounded'
+  position-footer:
+    attributes:
+      key: footer

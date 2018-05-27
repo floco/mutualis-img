@@ -1,0 +1,17 @@
+type: particle
+title: 'Custom HTML'
+chrome:
+  display_title: '0'
+  class: ''
+options:
+  type: custom
+  attributes:
+    enabled: '1'
+    html: '{{ page.find(''/sidebar'').content |raw }}'
+    twig: '1'
+    filter: '0'
+assignments:
+  page:
+    - true
+  type:
+    - true
