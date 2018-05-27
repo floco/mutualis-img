@@ -1,5 +1,5 @@
 name: _offline
-timestamp: 1526226759
+timestamp: 1527439147
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/offline.png'
