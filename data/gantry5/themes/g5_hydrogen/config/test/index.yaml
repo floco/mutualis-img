@@ -1,5 +1,5 @@
 name: test
-timestamp: 1527439147
+timestamp: 1527440740
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -32,6 +32,8 @@ particles:
     system-messages-4850: 'System Messages'
   content:
     system-content-5939: 'Page Content'
+  slideshow:
+    slideshow-3437: Slideshow
   copyright:
     copyright-2509: Copyright
   spacer:
@@ -55,6 +57,7 @@ inherit:
     system-messages-4850: system-messages-5043
     system-content-5939: system-content-8627
     position-position-5349: position-position-5326
+    slideshow-3437: slideshow-6785
     position-position-7709: position-footer
     copyright-2509: copyright-8642
     spacer-9920: spacer-2848

@@ -20,6 +20,8 @@ layout:
     -
       - 'system-content-8627 70'
       - 'position-position-5326 30'
+    -
+      - slideshow-6785
   /footer/:
     -
       - position-footer
@@ -66,6 +68,57 @@ content:
       key: Sidebar
     block:
       variations: 'box4 rounded'
+  slideshow-6785:
+    attributes:
+      mainheading: 'Project portfolio'
+      introtext: 'List of projects we worked on.'
+      height: '300'
+      items:
+        -
+          image: 'gantry-media://media/thumb-xls.png'
+          videoiframe: ''
+          alt: ''
+          title: 'Project 1 title'
+          link: ''
+          target: _parent
+          description: ''
+          overlaystyle: style1
+          overlaycontainer: '0'
+          overlayposition: bottom
+          overlayanimation: fade
+          overlaywidth: auto
+          class: ''
+          name: 'Project 1'
+        -
+          image: 'gantry-media://media/thumb-3ds.png'
+          videoiframe: ''
+          alt: ''
+          title: 'Project 2 title'
+          link: ''
+          target: _parent
+          description: ''
+          overlaystyle: style1
+          overlaycontainer: '0'
+          overlayposition: bottom
+          overlayanimation: fade
+          overlaywidth: auto
+          class: ''
+          name: 'Project 2'
+        -
+          image: 'gantry-media://media/thumb-7z.png'
+          videoiframe: ''
+          alt: ''
+          title: 'Project 3 title'
+          link: ''
+          target: _parent
+          description: ''
+          overlaystyle: style1
+          overlaycontainer: '0'
+          overlayposition: bottom
+          overlayanimation: fade
+          overlaywidth: auto
+          class: ''
+          name: 'Project 3'
   position-footer:
     attributes:
       key: footer
