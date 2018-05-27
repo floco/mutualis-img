@@ -18,5 +18,3 @@ media_order: opensource.png
     </ul>
 </div>
 </p>
-
-
