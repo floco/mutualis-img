@@ -37,3 +37,10 @@ media_order: opensource.png
                                 <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
                                 <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next"></a>
                             </div>
+<ul>
+{% for post in page.find('/news').children.order('date', 'desc').slice(0, 5) %}
+    <li class="recent-posts">
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+    </li>
+{% endfor %}
+</ul>
