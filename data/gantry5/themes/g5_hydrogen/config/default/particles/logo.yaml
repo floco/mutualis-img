@@ -1,8 +1,0 @@
-enabled: '1'
-url: ''
-target: _self
-image: 'gantry-media://mutualis_logo.png'
-link: '1'
-svg: ''
-text: Mutualis
-class: gantry-logo
